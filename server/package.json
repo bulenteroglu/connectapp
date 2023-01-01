@@ -11,7 +11,7 @@
   "author": "Bulent Eroglu",
   "license": "ISC",
   "dependencies": {
-    "config": "^3.2.4",
+    "config": "^3.3.8",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "mongoose": "^5.7.7"
